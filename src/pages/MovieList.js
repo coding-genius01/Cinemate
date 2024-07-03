@@ -8,7 +8,7 @@ export const MovieList = ({apiPath, title}) => {
 
 	useEffect(() => {
 		document.title = `${title} / Cinemate`;
-	}, [apiPath]);
+	}, [title]);
 
   return (
     <main>
