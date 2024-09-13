@@ -12,7 +12,6 @@
 /build
 
 # misc
-.links.txt
 .DS_Store
 .env
 .env.local
